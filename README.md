@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prachityagideepakabc
+- 👋 Hi, I’m Prachi Tyagi
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cryptography
 - 💞️ I’m looking to collaborate on Goverment Organisation.
